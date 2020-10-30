@@ -1,11 +1,3 @@
-- Getting Started
-
-  - [Introduction](/)
-  - [Usages](usages.md)
-  - Installation
-    - [Atom](installation.md)
-    - [VS Code](vscode-installation.md)
-
 - Writing Markdown
 
   - [Markdown Basics](markdown-basics.md)
@@ -46,8 +38,3 @@
 - [Extra](extra.md)
 - [FAQ](faq.md)
 - Changelog
-  - Atom
-    - [Newest](newest.md)
-    - [History](history.md)
-  - [VS Code](https://github.com/shd101wyy/vscode-markdown-preview-enhanced/releases)
-- [License](LICENSE.md)
